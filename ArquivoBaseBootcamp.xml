@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ArquivoBaseBootcamp</name>
+    </assembly>
+    <members>
+        <member name="M:ArquivoBaseBootcamp.Controllers.BootcampController.AdicionarInteresse">
+            <summary>
+             Este endpoint deve realizar o cadastro de um interessado
+            </summary>
+            <param name="cadastrar"></param>  
+        </member>
+        <member name="M:ArquivoBaseBootcamp.Controllers.BootcampController.ConsultarInteresse">
+            <summary>
+            Este endpoint deve consultar a interessada cadastrada
+            </summary>
+            <returns></returns>
+        </member>
+		<member name="M:ArquivoBaseBootcamp.Controllers.BootcampController.ConsultarTodosInteresses">
+			<summary>
+				Este endpoint deve consultar todas as interessadas cadastradas
+			</summary>
+			<returns></returns>
+		</member>
+		<member name="M:ArquivoBaseBootcamp.Controllers.BootcampController.AtualizarInteresse">
+			<summary>
+				Este endpoint deve atualizar a interessada cadastrada
+			</summary>
+			<returns></returns>
+		</member>
+		<member name="M:ArquivoBaseBootcamp.Controllers.BootcampController.ExcluirInteresse">
+			<summary>
+				Este endpoint deve excluir a interessada cadastrada
+			</summary>
+			<returns></returns>
+		</member>
+    </members>
+	
+</doc>

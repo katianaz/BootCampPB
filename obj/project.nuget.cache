@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7T1DZKrFl4r5tYY9rqO5Ztor+ekdqi5xzQvVApsyEZdqIEuNMD5Qz4qwZAXSLPd4kxAdIx6+I4FFEhUDYTQ0Dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\katianaz\\Desktop\\SolucaoBaseBootcamp\\SolucaoBaseBootCamp.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\katianaz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\katianaz\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.1.3\\swashbuckle.aspnetcore.annotations.6.1.3.nupkg.sha512",
+    "C:\\Users\\katianaz\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.3\\swashbuckle.aspnetcore.swagger.6.1.3.nupkg.sha512",
+    "C:\\Users\\katianaz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.3\\swashbuckle.aspnetcore.swaggergen.6.1.3.nupkg.sha512",
+    "C:\\Users\\katianaz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.3\\swashbuckle.aspnetcore.swaggerui.6.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

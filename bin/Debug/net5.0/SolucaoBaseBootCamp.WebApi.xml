@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SolucaoBaseBootCamp.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:ArquivoBaseBootcamp.Controllers.InteresseController.ConsultarTodosInteresses">
+            <summary>
+            Este endpoint deve consultar as interessadas cadastradas
+            </summary>
+            <returns>
+            Retorna a lista com todas as interessadas cadastradas
+            </returns>
+        </member>
+        <member name="M:ArquivoBaseBootcamp.Controllers.InteresseController.ConsultarInteresse(System.String)">
+            <summary>
+            Este endpoint deve consultar a interessada cadastrada
+            </summary>
+            <returns>
+            Retorna 2xx caso sucesso
+            Retorna 4xx caso erro
+            </returns>
+        </member>
+        <member name="M:ArquivoBaseBootcamp.Controllers.InteresseController.AdicionarInteresse(SolucaoBaseBootCamp.WebApi.Model.InteresseModel)">
+            <summary>
+             Este endpoint deve realizar o inclusao de uma interessada
+            </summary>
+            <returns>
+            Retorna 2xx caso sucesso
+            Retorna 4xx caso erro
+            </returns>
+        </member>
+        <member name="M:ArquivoBaseBootcamp.Controllers.InteresseController.AtualizarInteresse(SolucaoBaseBootCamp.WebApi.Model.InteresseModel)">
+            <summary>
+            Este endpoint deve atualizar os dados da interessada cadastrada
+            </summary>
+            <returns>
+            Retorna 2xx caso sucesso
+            Retorna 4xx caso erro
+            </returns>
+        </member>
+        <member name="M:ArquivoBaseBootcamp.Controllers.InteresseController.ExcluirInteresse(System.String)">
+            <summary>
+            Este endpoint deve excluir a interessada cadastrada
+            </summary>
+            <returns>
+            Retorna 2xx caso sucesso
+            Retorna 4xx caso erro
+            </returns>
+        </member>
+    </members>
+</doc>
