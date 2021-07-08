@@ -6,7 +6,7 @@
 
 3. Criou-se uma lista dentro da classe InteresseService para salvar em memória os dados;
 
->3.1 Método "Atualizar": baseado no email que foi requisitado, pega-se o índice deste email na lista de dados salvos, e esse índice é usado para substituir o objeto que veio por parâmetro, então retorna verdadeiro, caso contrário retorna falso; 
+>   3.1 Método "Atualizar": baseado no email que foi requisitado, pega-se o índice deste email na lista de dados salvos, e esse índice é usado para substituir o objeto que veio por parâmetro, então retorna verdadeiro, caso contrário retorna falso; 
 
  >3.2 Método "Consultar": verifica se o email requisitado corresponde a algum e email já existente da lista, e retorna o objeto correspondente; 
 
